@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - numpy
+  - biopython
+  - pandas
+  - matplotlib
+  - openpyxl
